@@ -1,2 +1,2 @@
-# 学生管理系统后端
+# Student-Management-System-Rear
 https://github.com/krismile-sunflower/Student-Management-System-Rear
